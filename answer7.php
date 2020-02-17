@@ -9,7 +9,7 @@ After inserting '$' the array is :
 1 2 3 $ 4 5
 */
 
-class answer7 {
+class Answer7 {
 
 	public $numbers;
 
@@ -38,7 +38,7 @@ class answer7 {
 	}
 }
 
-$firstSet = new answer7([1, 2, 3, 4, 5, 6, 7]);
+$firstSet = new Answer7([1, 2, 3, 4, 5, 6, 7]);
 echo 'Orinal Array:' . '<br />';
 $firstSet->originalArray();
 
