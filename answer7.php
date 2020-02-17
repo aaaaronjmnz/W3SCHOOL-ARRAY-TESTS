@@ -47,4 +47,4 @@ $firstSet->insertRandomlyThenEcho('x');
 
 echo '<br /><br />' . 'Spam F5 to see random insert.';
 
-/* COMMENT: Nung natapos ko yung code ko tapos chineck ko if tama sa W3resource, medyo iba pala solution nya. Insert array in any position sakanya sakin pero ikaw pa din mag iindicate kung saan. Yung sakin program that inserts an element in an array in any random position. */
+/* COMMENT: Nung natapos ko yung code ko tapos chineck ko if tama sa W3resource, medyo iba pala solution nya. Insert array in any position sakanya pero ikaw pa din mag iindicate kung saan. Yung sakin program that inserts an element in an array in any random position. */
